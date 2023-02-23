@@ -7,7 +7,7 @@ body {
     justify-content: center;
     font-family: cursive;
     overflow: hidden;
-    background-image: url("https://cdn.pixabay.com/photo/2022/08/09/09/24/boho-art-7374559_960_720.jpg");
+    background-color: rgb(240, 201, 149);
 }
 
 h2 {
