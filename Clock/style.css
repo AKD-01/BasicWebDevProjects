@@ -9,6 +9,13 @@ body {
     align-items: center;
 }
 
+h2 {
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: -120px;
+}
+
 img {
     width: 70px;
     position: absolute;
@@ -92,7 +99,7 @@ img {
 
 .arrows .hour {
     height: 80px;
-    transform: rotate(30deg);
+    transform: rotate(60deg);
 }
 
 .arrows .second {
