@@ -7,9 +7,9 @@ body {
 .bg-image {
   width: 100%;
   height: 100vh;
-  background: url("https://cdn.shortpixel.ai/spai/w_759+q_lossy+ret_img+to_webp/https://www.islands.com/wp-content/uploads/sites/13/2021/09/02-santa-monica-shutterstock_191312978.jpg");
+  background: url("https://media.istockphoto.com/id/1360554439/photo/maldives-tropical-island.jpg?b=1&s=170667a&w=0&k=20&c=AWY54kmUT9IcXJZdSdxxm5JUFK_3fxpmMbWQ6IhEG50=");
   background-position: center;
-  background-size: 160%;
+  background-size: 140%;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
