@@ -10,6 +10,7 @@ body {
   background: url("https://cdn.shortpixel.ai/spai/w_759+q_lossy+ret_img+to_webp/https://www.islands.com/wp-content/uploads/sites/13/2021/09/02-santa-monica-shutterstock_191312978.jpg");
   background-position: center;
   background-size: 160%;
+  background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
