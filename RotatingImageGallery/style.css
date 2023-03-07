@@ -24,6 +24,7 @@ body {
     left: 0;
     width: 100%;
     transform: rotateY(calc(var(--i)*45deg)) translateZ(400px);
+    transition: transform 0.7s;
 }
 
 .image-container span img {
