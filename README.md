@@ -15,3 +15,6 @@
 
  ## Project - 5
  Month Calendar
+
+ ## Project - 6
+ Rotating Image Gallery
