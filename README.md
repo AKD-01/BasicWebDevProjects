@@ -18,3 +18,6 @@
 
  ## Project - 6
  Rotating Image Gallery
+
+ ## Project - 7
+ Real-time Character Counter
