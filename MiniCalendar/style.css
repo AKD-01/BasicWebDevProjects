@@ -5,7 +5,9 @@ body {
     height: 100vh;
     align-items: center;
     font-family: cursive;
-    background-color: slateblue;
+    background-image: url("https://media.istockphoto.com/id/599141666/photo/sunflowers-on-wooden-background.jpg?b=1&s=170667a&w=0&k=20&c=XoInhA1mpQZqaStmhdidrwS5wT9Tre0WlUyLZ5kKDZ4=");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .calendar-container {
