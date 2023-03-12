@@ -24,3 +24,6 @@
 
  ## Project - 8
  Mini Calendar
+
+ ## Project - 9
+ Random Password Generator
