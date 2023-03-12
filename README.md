@@ -21,3 +21,6 @@
 
  ## Project - 7
  Real-time Character Counter
+
+ ## Project - 8
+ Mini Calendar
