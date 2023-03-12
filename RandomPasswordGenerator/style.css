@@ -1,88 +1,89 @@
 body {
-    margin:0;
-    display: flex;
-    justify-content: center;
-    height: 100vh;
-    align-items: center;
-    font-family: 'Courier New', Courier, monospace;
-    background-image: url("https://thumbs.dreamstime.com/b/sunflowers-vector-background-image-text-45421865.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  font-family: "Courier New", Courier, monospace;
+  background-image: url("https://thumbs.dreamstime.com/b/sunflowers-vector-background-image-text-45421865.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .password-container {
-    background-color: yellow;
-    width: 500px;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 1px 4px 8px rgba(0,0,0,.3);
-    margin: 10px;
+  background-color: yellow;
+  width: 500px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
+  margin: 10px;
 }
 
 .input-container {
-    border: solid 2px black;
-    padding: 10px;
-    border-radius: 10px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  border: solid 2px black;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .input {
-    border: none;
-    background-color: transparent;
-    outline: none;
-    font-size: 24px;
-    letter-spacing: 4px;
+  border: none;
+  background-color: transparent;
+  outline: none;
+  font-size: 24px;
+  letter-spacing: 4px;
 }
 
 .input::placeholder {
-    letter-spacing: 0px;
+  letter-spacing: 0px;
 }
 
 .fa-copy {
-    cursor: pointer;
-    opacity: .5;
+  cursor: pointer;
+  opacity: 0.5;
 }
 
 .fa-copy:hover {
-    opacity: 0.8;
+  opacity: 0.8;
 }
 
 .btn {
-    background-color: black;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    margin: 10px 0;
-    font-size: 20px;
-    cursor: pointer;
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 10px 0;
+  font-size: 20px;
+  cursor: pointer;
 }
 
 .btn:hover {
-    background-color: green;
+  background-color: green;
 }
 
 .btn:active {
-    transform: scale(0.95);
+  transform: scale(0.95);
 }
 
 .alert-container {
-    position: fixed;
-    width: 300px;
-    height: 50px;
-    background-color: lightgreen;
-    right: 20px;
-    bottom: 20px;
-    border-radius: 10px;
-    box-shadow: 0px 4px 8px rgba(0,0,0,.3);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 20px;
+  position: fixed;
+  width: 300px;
+  height: 50px;
+  background-color: lightgreen;
+  right: 20px;
+  bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  transition: 0.4s;
 }
 
 .active.alert-container {
-    right: -300px;
+  right: -300px;
 }
