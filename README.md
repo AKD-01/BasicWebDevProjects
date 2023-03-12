@@ -1,5 +1,5 @@
 # BasicWebDevProjects
- Must do web development projects for beginners!
+ Must do Web Development projects for beginners!
 
  ## Project - 1
  Digital Clock
