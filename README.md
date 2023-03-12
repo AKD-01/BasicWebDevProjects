@@ -27,3 +27,6 @@
 
  ## Project - 9
  Random Password Generator
+
+ ## Project - 10
+ Dark Mode Toggle
