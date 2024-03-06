@@ -30,3 +30,18 @@
 
  ## Project - 10
  Dark Mode Toggle
+
+ ## Project - 11
+ Color Changer
+
+ ## Project - 12
+ BMI Calculator
+
+ ## Project - 13
+ Guess the Number
+
+ ## Project - 14
+ Keyboard Game
+
+ ## Project - 15
+ Unlimited Colors
