@@ -1,4 +1,4 @@
-# BasicWebDevProjects
+# Basic Web Dev Projects
  Must do Web Development projects for beginners!
 
  ## Project - 1
